@@ -1,5 +1,5 @@
-train: /mnt/d/rezolve/logo_detection_yolov8_rezolve\data\train\images
-val: /mnt/d/rezolve/logo_detection_yolov8_rezolve\data\valid\images
+train: /data/train/images
+val:/data/valid/images
 
 nc:1
 names: ["Rezolve_logo"]
