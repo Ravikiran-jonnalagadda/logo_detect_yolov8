@@ -1,5 +1,5 @@
 train: /data/train/images
-val:/data/valid/images
+val: /data/valid/images
 
 nc:1
 names: ["Rezolve_logo"]
