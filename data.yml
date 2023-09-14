@@ -1,0 +1,5 @@
+train: C:\Users\Admin\YOLOV8\data\train\images
+val: C:\Users\Admin\YOLOV8\data\valid\images
+
+nc:1
+names: ["Rezolve_logo"]
